@@ -3,8 +3,8 @@
 # Copyright 2012 Twitter, Inc
 # http://www.apache.org/licenses/LICENSE-2.0
 
-module TwitterCldr
-  module Utils
+#module TwitterCldr
+#  module Utils
 
     # An integer set, implemented under the hood with ranges. The idea is
     # that it's more efficient to store sequential data in ranges rather
@@ -236,5 +236,5 @@ module TwitterCldr
       end
 
     end
-  end
-end
+#  end
+#end
